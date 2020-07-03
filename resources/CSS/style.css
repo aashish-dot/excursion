@@ -8,6 +8,15 @@ body {
     font-size: 50px;
     color: white;
 }
+.sh {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;  
+}
+.th {
+    font-size: 21px;
+    color: gray;  
+}
 .link {
     font-size: 16px;
     color: aquamarine;
